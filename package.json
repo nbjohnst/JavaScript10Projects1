@@ -1,0 +1,23 @@
+{
+  "name": "simplequiz",
+  "version": "1.0.0",
+  "description": "firstprojectudemy10JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbjohnst/JavaScript10Projects1.git"
+  },
+  "author": "Nicholas Johnstone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nbjohnst/JavaScript10Projects1/issues"
+  },
+  "homepage": "https://github.com/nbjohnst/JavaScript10Projects1#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^1.5.3"
+  }
+}
